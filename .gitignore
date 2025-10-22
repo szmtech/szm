@@ -1,0 +1,12 @@
+# Node
+backend/node_modules
+backend/dist
+backend/data.json
+
+# Flutter / Dart
+mobile/.dart_tool
+mobile/.packages
+mobile/build
+
+# Misc
+.DS_Store
